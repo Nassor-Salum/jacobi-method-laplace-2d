@@ -44,14 +44,15 @@ To numerically solve the Laplace equation under fixed boundary conditions and si
   ![600 Iterations](https://github.com/Nassor-Salum/jacobi-method-laplace-2d/blob/main/Screenshot%202025-06-25%20235914.png)
 
 
-  - For 4200 Iterations
+- For 4200 Iterations
 
     ![4200 Iterations](https://github.com/Nassor-Salum/jacobi-method-laplace-2d/blob/main/Screenshot%202025-06-25%20235942.png)
 
 
-     - For 5312 Iterations
+ - For 5312 Iterations
    
       ![Final Iterations](https://github.com/Nassor-Salum/jacobi-method-laplace-2d/blob/main/Screenshot%202025-06-26%20000005.png)
+    
     *The contour plot illustrates the solution's distribution and accurately reflects the prescribed boundary constraints, which stabilized after 5312 iterations*
 ---
 
