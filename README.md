@@ -32,11 +32,12 @@ To numerically solve the Laplace equation under fixed boundary conditions and si
 
 ## 📈 Visualization
 
-The simulation tracks pressure contour development every 1200 iterations using **Matplotlib**, until convergence is reached.
+**The simulation tracks pressure contour development every certain iterations using **Matplotlib**, until convergence is reached.**
 
-Sample output:
+- For 300 Iterations
 
-![Contour Plot](https://github.com/Nassor-Salum/jacobi-method-laplace-2d/blob/main/sample-contour.png)
+  ! [300 Iterations] (https://github.com/Nassor-Salum/jacobi-method-laplace-2d/blob/main/Screenshot%202025-06-25%20235819.png)
+
 
 ---
 
