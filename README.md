@@ -42,6 +42,11 @@ To numerically solve the Laplace equation under fixed boundary conditions and si
 - For 600 Iterations
 
   ![600 Iterations](https://github.com/Nassor-Salum/jacobi-method-laplace-2d/blob/main/Screenshot%202025-06-25%20235914.png)
+
+
+  - For 4200 Iterations
+
+    ![4200 Iterations](https://github.com/Nassor-Salum/jacobi-method-laplace-2d/blob/main/Screenshot%202025-06-25%20235942.png)
 ---
 
 ## 🧠 Applications
